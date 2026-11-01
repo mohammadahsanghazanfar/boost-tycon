@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { ArrowUpRight, Sparkles } from 'lucide-react';
+// This is the about section of the website
 
 interface AboutSectionProps {
   onOpenQuote: () => void;
