@@ -1,0 +1,6 @@
+{
+  "name": "BOSSTYCOON Agency",
+  "description": "A high-end, modern digital marketing and creative agency website for BOSSTYCOON featuring services, portfolio, interactive quotes, and client results.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
